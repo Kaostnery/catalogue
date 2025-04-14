@@ -1,7 +1,6 @@
-[
+{
+  "SAM": [
     {
-        "SAM":
-    [{
       "editeur": "Agiloft",
       "certifications": [
         {
@@ -18,114 +17,9 @@
           "lien": "./Certif_Page/AWS_Cloud_praticioner.html"
         }
       ]
-    },
-    {
-      "editeur": "CSAM",
-      "certifications": [
-        {
-          "titre": "CSAM",
-          "lien": "./Certif_Page/CSAM.html"
-        }
-      ]
-    },
-    {
-      "editeur": "Docusign",
-      "certifications": [
-        {
-          "titre": "CLM Consultant",
-          "lien": "./Certif_Page/Docusign_CLM_consultant.html"
-        }
-      ]
-    },
-    {
-      "editeur": "FINOPS",
-      "certifications": [
-        {
-          "titre": "Certified Practitioner",
-          "lien": "./Certif_Page/FINOPS_Certfied_Practicioner.html"
-        }
-      ]
-    },
-    {
-      "editeur": "Flexera",
-      "certifications": [
-        {
-          "titre": "Certified ITAM Practitioner",
-          "lien": "./Certif_Page/Flexera_certified_ITAM_Practicioner.html"
-        },
-        {
-          "titre": "Certified FlexNet Manager Practitioner",
-          "lien": "./Certif_Page/Flexera_certified_FlexNet_Manager_Practicioner.html"
-        },
-        {
-          "titre": "Certified FlexNet Manager Administrator",
-          "lien": "./Certif_Page/Flexera_certified_FlexNet_Manager_Administrator.html"
-        }
-      ]
-    },
-    {
-      "editeur": "HCL",
-      "certifications": [
-        {
-          "titre": "BigFix Inventory",
-          "lien": "./Certif_Page/HCL_BigFix_Inventory.html"
-        }
-      ]
-    },
-    {
-      "editeur": "IBM",
-      "certifications": [
-        {
-          "titre": "Licensing Expertise",
-          "lien": "./Certif_Page/IBM_Licensing_Expertise.html"
-        },
-        {
-          "titre": "IBM Certified Administrator BigFix Inventory and Licence Metric Tool",
-          "lien": "./Certif_Page/IBM_Certified_Administrator_BigFix_Inventory_and_Licence_Metric_Tool.html"
-        }
-      ]
-    },
-    {
-      "editeur": "ServiceNOW",
-      "certifications": [
-        {
-          "titre": "CSA",
-          "lien": "./Certif_Page/ServiceNOW_CSA.html"
-        },
-        {
-          "titre": "CIS - SAM",
-          "lien": "./Certif_Page/ServiceNOW_CIS_SAM.html"
-        },
-        {
-          "titre": "CIS - Discovery",
-          "lien": "./Certif_Page/ServiceNOW_CIS_Discovery.html"
-        },
-        {
-          "titre": "Workflow Data Fabric",
-          "lien": "./Certif_Page/ServiceNOW_WDF.html"
-        }
-      ]
-    },
-    {
-      "editeur": "Sirion",
-      "certifications": [
-        {
-          "titre": "Certified CLM Consultant",
-          "lien": "./Certif_Page/Sirion_Certified_CLM_consultant.html"
-        }
-      ]
-    },
-    {
-      "editeur": "Snow",
-      "certifications": [
-        {
-          "titre": "License Manager User",
-          "lien": "./Certif_Page/Snow_License_manager_user.html"
-        }
-      ]
-    }],
-    "DATA":{},
-    "GRC":{}}
-    
-  ]
-  
+    }
+    // etc.
+  ],
+  "GRC": [],
+  "DATA": []
+}

@@ -1,5 +1,7 @@
 [
     {
+        "SAM":
+    {
       "editeur": "Agiloft",
       "certifications": [
         {
@@ -121,6 +123,9 @@
           "lien": "./Certif_Page/Snow_License_manager_user.html"
         }
       ]
-    }
+    },
+    "DATA":{},
+    "GRC":{}}
+    
   ]
   
